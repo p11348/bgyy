@@ -1,8 +1,8 @@
 {
-  "versionCode": 507,
-  "versionName": "5.7",
-  "desc": "5.7：新增「与其他应用同时播放」——看视频/听其它音乐/发微信语音时，波哥音乐可同时出声、互不影响（系统层Hook音频焦点，不再抢占或让位）。默认开启，可在设置里关闭恢复让位行为。其余功能不变。",
-  "apk": "bogyy-5.7.apk",
+  "versionCode": 508,
+  "versionName": "5.8",
+  "desc": "5.8：修复失效音源——QQ音乐搜索接口(musicu.fcg失效→改用client_search_cp)、网易云与Meting搜索(music.163.com触发验证码风控→改用interface3子域)，实测搜索+取链全部恢复。酷狗/咪咕/酷我/5sing/JOOX/GD工作室/念心NX均正常。",
+  "apk": "bogyy-5.8.apk",
   "size": 3211219,
-  "time": "2026-11-23"
+  "time": "2026-11-27"
 }
